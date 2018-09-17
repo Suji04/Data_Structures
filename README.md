@@ -10,6 +10,11 @@ Implementation of basic linear and non-linear data structures in **C++**
   * insert()
   * del()
   * show()
+  
+## Circular Queue
+  * insert()
+  * del()
+  * show()  
 
 ## Linked list
   * addFront()
