@@ -1,10 +1,13 @@
 #include <bits/stdc++.h>
+#define ll long long int
+#define f(i,a,b) for(ll i=a;i<=b;i++)
 using namespace std;
 
 int main(){
-    int n; cin>>n;
-    int arr[n];
-    for(int i=0; i<n; i++) cin>>arr[i];
-    for(auto i: arr) cout<<i<<" ";
+    ll n; 
+    cin>>n;
+    ll a[n];
+    f(i,0,n-1) cin>>a[i];
+    f(i,0,n-1) cout<<a[i]<<" ";
     return 0;
 }
