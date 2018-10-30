@@ -1,6 +1,8 @@
 # Data_Structures
 Implementation of basic linear and non-linear data structures in **C++**
 
+## Array
+
 ## Stack 
   * push()
   * pop()
