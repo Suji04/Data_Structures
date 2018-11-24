@@ -18,14 +18,24 @@ Implementation of basic linear and non-linear data structures in **C++**
   * del()
   * show()  
 
-## Linked list
+## Linked List (in C++)
   * addFront()
   * addBack()
   * addAfter()
   * del()
   * show()
   
-## Binary tree
+## Linked List (in C)
+  * addFront()
+  * addBack()
+  * addAfter()
+  * del()
+  * delBack()
+  * delFront()
+  * display() 
+  * reverse()
+  
+## Binary Tree
   * postOrder()
   * preOrder()
   * inOrder()
