@@ -11,7 +11,7 @@ Implementation of basic linear and non-linear data structures in **C** and **C++
 ## Stack (using Linked List)
   * push()
   * pop()
-  * show()
+  * display()
   
 ## Queue (using Array)
   * insert()
@@ -19,9 +19,9 @@ Implementation of basic linear and non-linear data structures in **C** and **C++
   * show()
   
 ## Queue (using Linked List)
-  * insert()
-  * del()
-  * show()
+  * push()
+  * pop()
+  * display()
   
 ## Circular Queue
   * insert()
