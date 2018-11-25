@@ -1,14 +1,24 @@
 # Data_Structures
-Implementation of basic linear and non-linear data structures in **C++**
+Implementation of basic linear and non-linear data structures in **C** and **C++**
 
 ## Array
 
-## Stack 
+## Stack (using Array)
   * push()
   * pop()
   * show()
   
-## Queue
+## Stack (using Linked List)
+  * push()
+  * pop()
+  * show()
+  
+## Queue (using Array)
+  * insert()
+  * del()
+  * show()
+  
+## Queue (using Linked List)
   * insert()
   * del()
   * show()
@@ -39,4 +49,9 @@ Implementation of basic linear and non-linear data structures in **C++**
   * postOrder()
   * preOrder()
   * inOrder()
+  
+## Binary Search Tree
+  * insert()
+  * inorder()
+  * search()
   
